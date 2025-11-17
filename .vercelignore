@@ -1,0 +1,14 @@
+node_modules
+.env
+.env.local
+.env.*.local
+.git
+.github
+.vscode
+.vs
+.replit
+dist/index.js
+server
+*.log
+.DS_Store
+Thumbs.db

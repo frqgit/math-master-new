@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build output
+dist/
+build/
+.next/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# IDE
+.vscode/
+.idea/
+.vs/
+*.swp
+*.swo
+*~
+*.suo
+*.user
+*.sln
+*.slnx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Drizzle
+drizzle/
+migrations/
+
+# Misc
+.cache/
+.temp/
+*.tsbuildinfo
